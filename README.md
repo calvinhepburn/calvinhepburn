@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## This is me experimenting with a profile README.md
+## I'm currently a student at UBC Okanagan studying math and computer science
+## I'll probably update this later when I have more inspiration to add to it 
+## :)
 <!--
 **calvinhepburn/calvinhepburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
