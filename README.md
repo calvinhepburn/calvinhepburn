@@ -4,6 +4,8 @@
 ## This github account has repo's from personal project, class projects, and classroom activities
 ## Check out some of the pinned projects below :)
 ## 
+Much of my work has happened off github so I'm currently working on adding to my online portfolio. For instance, the symmetrical-engine repo is an upload of a local project. 
+I'm currently working on my capstone project for Computer Science. Check it out or ask me about it!
 <!--
 **calvinhepburn/calvinhepburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
