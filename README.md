@@ -1,6 +1,6 @@
 ## Hello visitor
 
-## My name is Calvin Hepburn, I am a student study computer science and math
+## My name is Calvin Hepburn, I am a student studying computer science and math
 ## This github account has repo's from personal project, class projects, and classroom activities
 ## Check out some of the pinned projects below :)
 ## 
